@@ -23,7 +23,7 @@ The project uses a dataset containing information such as country, region, year,
 [View the Tableau Dashboard](https://public.tableau.com/app/profile/tejas.thalner/viz/Global_AI_Adoption_Final_Backup/GlobalAIAdoptionDashboard)
 
 ## Tableau Story
-[View the Tableau Story](https://public.tableau.com/views/Global_AI_Adoption_Public/ExecutiveOverview)
+[View the Tableau Story](https://public.tableau.com/app/profile/tejas.thalner/viz/Story1_17913684472030/Story1)
 
 ## Project Outcome
 The project provides an interactive way to explore the sample data and compare AI adoption patterns in education.
