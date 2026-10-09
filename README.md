@@ -20,7 +20,7 @@ The project uses a dataset containing information such as country, region, year,
 **Note:** The dataset is sample/synthetic data and should not be treated as verified real-world global statistics.
 
 ## Tableau Dashboard
-[View the Tableau Dashboard](https://public.tableau.com/views/Global_AI_Adoption_Public/GlobalAIAdoptioninEducation)
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/tejas.thalner/viz/Global_AI_Adoption_Final_Backup/GlobalAIAdoptionDashboard)
 
 ## Tableau Story
 [View the Tableau Story](https://public.tableau.com/views/Global_AI_Adoption_Public/ExecutiveOverview)
